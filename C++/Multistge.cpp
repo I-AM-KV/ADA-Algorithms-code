@@ -1,4 +1,5 @@
 #include<iostream>
+#define I 324567
 using namespace std;
 int main(){
     int stage;
