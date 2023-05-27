@@ -65,15 +65,7 @@ int main(){
    break; 
 
    }
-  /* if(choice==1){
-   
-   }
-   if(choice==2){
-   
-   }
-   if(choice==3){
-    break;
-   } */ 
+  
 }
 
 
