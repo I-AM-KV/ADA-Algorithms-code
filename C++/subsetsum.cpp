@@ -54,7 +54,7 @@ int main (){
     sumSubset(s,k,r,m);
     
     
-	cout<<"hiendl";
+	cout<<"endl";
 
 
 	return 0;
